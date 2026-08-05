@@ -3,7 +3,7 @@
 ## 🍎 macOS
 
 ```bash
-cd dev-panel
+cd GU-DevPilot
 npm install
 npm run tauri dev
 ```
@@ -13,7 +13,7 @@ npm run tauri dev
 ## 🪟 Windows
 
 ```bash
-cd dev-panel
+cd GU-DevPilot
 npm install
 npm run tauri dev
 ```
