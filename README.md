@@ -1,8 +1,19 @@
-How to install app ?
+# How to Install
 
->>> macbook
+## 🍎 macOS
 
+```bash
+cd dev-panel
+npm install
+npm run tauri dev
+```
 
+---
 
+## 🪟 Windows
 
->>>windows
+```bash
+cd dev-panel
+npm install
+npm run tauri dev
+```
