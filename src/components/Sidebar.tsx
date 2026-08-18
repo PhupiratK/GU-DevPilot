@@ -15,10 +15,6 @@ const tokens = {
 
 const links = [
   { to: "/", label: "Dashboard", icon: LayoutDashboard, end: true },
-  // { to: "/services", label: "Services", icon: Settings2 },
-  // { to: "/database", label: "Database", icon: Database },
-  // { to: "/projects", label: "Projects", icon: FolderKanban },
-  // { to: "/settings", label: "Settings", icon: Settings },
 ];
 
 const HEADER_HEIGHT = 64;

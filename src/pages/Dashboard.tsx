@@ -50,10 +50,8 @@ const processNameMap: Record<string, string[]> = {
 
 const MIN_REFRESH_MS = 600;
 
-// Adjust to match wherever phpMyAdmin is actually served in your environment.
 const PHPMYADMIN_URL = "http://localhost:8080/phpmyadmin/";
 
-// Adjust to match wherever your PHP projects live on disk.
 const PHP_FOLDER_PATH = "/opt/homebrew/var/www";
 
 export default function Dashboard() {
